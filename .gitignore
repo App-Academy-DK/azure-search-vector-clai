@@ -358,3 +358,4 @@ MigrationBackup/
 .env
 demo-dotnet/code/local.settings.json
 local.settings.json
+/demo-dotnet/DotNetIntegratedVectorizationDemo/local.settings-sweden-clai.json
